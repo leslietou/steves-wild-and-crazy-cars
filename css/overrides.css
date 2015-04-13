@@ -1,0 +1,41 @@
+.navbar-default {
+  background-color: #35354D;
+}
+
+.navbar-default .navbar-nav>.active>a{
+	background-color: #C96823;
+}
+
+.navbar-default .navbar-nav>.active>a:hover{
+	background-color: #F3A720;
+	color:white;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color:white;
+}
+
+section{
+	padding:20px;
+}
+
+
+#deals{
+	background-color: #E2DADB;
+}
+
+#used-cars{
+	background-color: #A499BE;
+}
+
+#new-cars{
+	background-color: #AAC0AF;
+}
+
+
+/******Carousel*****/
+
+#carousel-example-generic img{
+	width:100%;
+	max-width: 100%;
+}
